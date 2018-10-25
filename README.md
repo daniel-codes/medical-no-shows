@@ -1,7 +1,7 @@
 # Investigating Medical Appointment No Shows
 
 ### Summary
-This project investigates possible factors behind whether or not patients miss their scheduled medical appointments. It was estimated in 2013 that missed appointments cost the U.S. health-care system more than $150 billion a year (source)[http://www.post-gazette.com/business/businessnews/2013/02/24/No-shows-cost-health-care-system-billions/stories/201302240381]. The source dataset for this study is comprised of 100k medical appointments in Brazil and includes various characteristics about the appointment such as the patient's preexisting conditions, gender, age, and welfare status.
+This project investigates possible factors behind whether or not patients miss their scheduled medical appointments. It was estimated in 2013 that missed appointments cost the U.S. health-care system more than $150 billion a year [(source)](http://www.post-gazette.com/business/businessnews/2013/02/24/No-shows-cost-health-care-system-billions/stories/201302240381). The source dataset for this study is comprised of 100k medical appointments in Brazil and includes various characteristics about the appointment such as the patient's preexisting conditions, gender, age, and welfare status.
 
 The following factors are investigated with regards to appointment attendance rates:
 * How long between scheduling and the actual appointment date?
@@ -29,8 +29,8 @@ File Description:
 - **Daniel Cummings** - [daniel-codes](https://github.com/daniel-codes)
 
 ## Acknowledgments
-
-I found these resources particularly helpful for this project: 
-https://stackoverflow.com/questions/33381330/histogram-with-boxplot-above-in-python
-https://seaborn.pydata.org/tutorial/aesthetics.html
-https://pandas.pydata.org/pandas-docs/stable/api.html
+   
+I found these resources particularly helpful for this project:   
+https://stackoverflow.com/questions/33381330/histogram-with-boxplot-above-in-python    
+https://seaborn.pydata.org/tutorial/aesthetics.html    
+https://pandas.pydata.org/pandas-docs/stable/api.html    
